@@ -5,9 +5,9 @@
 
 - 🌱 I’m always learning
 
-- 📄 Know about my experiences [https://hilbert-portfolio.netlify.app](https://hilbert-portfolio.netlify.app)
+- 📄 Know about my experiences [https://hilbert-chxo.vercel.app/](https://hilbert-chxo.vercel.app/)
 
-- ⚡ Fun fact **I dropped Out of Architecture After 8 months in College just it felt right and i don't regret it.**
+- ⚡ Fun fact **I dropped out of Architecture after 8 months in College, just because it felt right, and I don't regret it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
