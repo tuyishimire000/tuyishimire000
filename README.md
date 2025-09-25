@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://hilbert-chxo.vercel.app/](https://hilbert-chxo.vercel.app/)
 
-- ⚡ Fun fact **I dropped out of Architecture after 8 months in College, just because it felt right, and I don't regret it.**
+- ⚡ Fun fact **I dropped out of Architecture after 8 months in College, just because it felt right, and I don't regret it. When I get $1M before 25, I will get back to college**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
